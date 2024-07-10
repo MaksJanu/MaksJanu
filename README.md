@@ -1,16 +1,23 @@
-## Hi there 👋
+# ⛷️ Maks Januszewski
 
-<!--
-**MaksJanu/MaksJanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Unfazed Unit (Developer/Sport enthusiast)`**
 
-Here are some ideas to get you started:
+Dedicated to honing coding skills and fostering positive team dynamics. Tech enthusiast and aspiring developer with a strong emphasis on soft skills development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🧰 Languages and Tools
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374016/python.svg"/>
+<img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/349419/javascript.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452228/html-5.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452185/css-3.svg" />
+<img align="left" alt="SCSS" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374068/scss.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/349437/linux.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="GIT" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452210/git.svg" />
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354200/postgresql.svg" />
+<img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/448226/gitlab.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/512317/github-142.svg" />
+<br />
+
+#
