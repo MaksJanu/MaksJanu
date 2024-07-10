@@ -21,3 +21,9 @@ Dedicated to honing coding skills and fostering positive team dynamics. Tech ent
 <br />
 
 #
+
+### 📊 Stats
+
+![Maks's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaksJanu&show_icons=true&theme=ocean_dark)
+
+#
