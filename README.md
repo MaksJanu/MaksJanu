@@ -1,6 +1,6 @@
 # ⛷️ Maks Januszewski
 
-**`Unfazed Unit (Developer/Sport enthusiast)`**
+**`Developer/Sport enthusiast`**
 
 Dedicated to honing coding skills and fostering positive team dynamics. Tech enthusiast and aspiring developer with a strong emphasis on soft skills development.
 
