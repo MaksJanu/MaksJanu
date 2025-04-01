@@ -37,9 +37,9 @@ I'm a passionate and motivated computer science student at the University of Gda
 
 ---
 
-## 📈 GitHub Stats
+## 📊 Most Used Technologies
 
-![Maks's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaksJanu&show_icons=true&theme=ocean_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksJanu&layout=compact&theme=ocean_dark)
 
 ---
 
