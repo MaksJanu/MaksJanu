@@ -45,7 +45,7 @@ I'm a passionate and motivated computer science student at the University of Gda
 
 ## 📫 Get in Touch
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/maksymilian-januszewski-3185002bb/)
+- **LinkedIn:** [Maksymilian Januszewski](https://www.linkedin.com/in/maksymilian-januszewski-3185002bb/)
 - **GitHub:** [github.com/MaksJanu](https://github.com/MaksJanu)
 - **Email:** [januszewskimaksymilian@gmail.com](mailto:januszewskimaksymilian@gmail.com)
 
