@@ -9,7 +9,7 @@ I'm a passionate and motivated computer science student at the University of Gda
 ## 🚀 About Me
 
 - 🎓 **Education:** Practical Computer Science student at the University of Gdańsk.
-- 🔥 **Career Goal:** Gaining experience in backend development, cloud computing, and containerization.
+- 🔥 **Career Goal:** Gaining experience in backend development, designing secure systems and containerization.
 - 🛠️ **Primary Languages:** JavaScript & Python.
 - 🏗️ **Backend Development:** Learning to design and implement scalable APIs and secure backend solutions.
 - 🗄️ **Databases:** Familiar with PostgreSQL and MongoDB.
