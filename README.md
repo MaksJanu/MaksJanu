@@ -1,6 +1,6 @@
 # ⛷️ Maks Januszewski
 
-**`Aspiring Backend Developer | Learning Cloud & Containerization`**
+**`Aspiring Backend Developer | Learning Containerization`**
 
 I'm a passionate and motivated computer science student at the University of Gdańsk, eager to gain hands-on experience in backend development, cloud computing, and containerization. Dedicated to honing my coding skills and fostering positive team dynamics, I strive to improve both my technical expertise and soft skills. I'm actively seeking opportunities for an internship or junior-level position to apply my knowledge in real-world projects and continue learning from experienced professionals.
 
