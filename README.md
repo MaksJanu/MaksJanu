@@ -13,7 +13,7 @@ I'm a passionate and motivated computer science student at the University of Gda
 - 🛠️ **Primary Languages:** JavaScript & Python.
 - 🏗️ **Backend Development:** Learning to design and implement scalable APIs and secure backend solutions.
 - 🗄️ **Databases:** Familiar with PostgreSQL and MongoDB.
-- ☁️ **Cloud & DevOps:** Exploring Azure and containerization with Docker.
+- ☁️ **DevOps:** Exploring containerization and good practices with Docker.
 - 💡 **Soft Skills:** Team player, eager to learn, and problem-solving mindset.
 
 ---
