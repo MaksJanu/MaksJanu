@@ -40,13 +40,6 @@ I'm a passionate and motivated computer science student at the University of Gda
 
 <br />
 
----
-
-## 📊 Most Used Technologies
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksJanu&layout=compact&theme=ocean_dark)
-
----
 
 ## 📫 Get in Touch
 
