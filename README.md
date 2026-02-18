@@ -1,6 +1,6 @@
 # ⛷️ Maks Januszewski
 
-**`Aspiring Backend Developer | Learning FastAPI and Containerization`**
+**`Aspiring Backend Developer / DevOps | Learning FastAPI and Containerization`**
 
 I'm a passionate and motivated computer science student at the University of Gdańsk, eager to gain hands-on experience in backend development, containerization and complex IT systems. Dedicated to honing my coding skills and fostering positive team dynamics. Highly adaptive attitude, quick learner, effective at networking and efficient at acquiring information. I strive to improve both my technical expertise and soft skills. I am updated with most of the newest AI tools and solutions to accelerate my learning and productivity. I'm actively seeking opportunities for an internship or junior-level position to apply my knowledge in real-world projects and continue learning from experienced professionals.
 
